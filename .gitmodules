@@ -363,7 +363,7 @@
 	url = https://github.com/minetest-mods/lightning
 [submodule "linetrack"]
 	path = linetrack
-	url = git@gitlab.com:C-C-Minetest-Server/linetrack.git
+	url = https://gitlab.com/C-C-Minetest-Server/linetrack
 [submodule "minetest-mod--locked_door"]
 	path = minetest-mod--locked_door
 	url = https://github.com/MetalDescendant/minetest-mod--locked_door
