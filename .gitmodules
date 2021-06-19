@@ -379,9 +379,6 @@
 [submodule "lucky_block"]
 	path = lucky_block
 	url = https://notabug.org/TenPlus1/lucky_block
-[submodule "mailbox"]
-	path = mailbox
-	url = http://git.linux-forks.de/mailbox/
 [submodule "mail_mod"]
 	path = mail_mod
 	url = https://github.com/minetest-mail/mail_mod
