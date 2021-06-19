@@ -1,0 +1,792 @@
+[submodule "advtrains"]
+	path = advtrains
+	url = https://git.bananach.space/advtrains.git
+[submodule "aerotest"]
+	path = aerotest
+	url = https://github.com/berengma/aerotest
+[submodule "airtanks"]
+	path = airtanks
+	url = https://github.com/minetest-mods/airtanks
+[submodule "angledstairs"]
+	path = angledstairs
+	url = https://github.com/TumeniNodes/angledstairs
+[submodule "anti_lava_area"]
+	path = anti_lava_area
+	url = https://github.com/Emojigit/anti_lava_area
+[submodule "antishroom"]
+	path = antishroom
+	url = https://github.com/Emojigit/antishroom
+[submodule "apartment"]
+	path = apartment
+	url = https://github.com/Sokomine/apartment
+[submodule "areas"]
+	path = areas
+	url = https://github.com/minetest-mods/areas
+[submodule "areas_pay"]
+	path = areas_pay
+	url = https://github.com/Jean28518/areas_pay
+[submodule "atm"]
+	path = atm
+	url = https://github.com/C-C-Minetest-Server/atm
+[submodule "awards"]
+	path = awards
+	url = https://github.com/rubenwardy/awards
+[submodule "bakedclay"]
+	path = bakedclay
+	url = https://notabug.org/TenPlus1/bakedclay
+[submodule "balloonblocks"]
+	path = balloonblocks
+	url = https://github.com/C-C-Minetest-Server/balloonblocks
+[submodule "minetest-balloon-blocks"]
+	path = minetest-balloon-blocks
+	url = https://github.com/TBSHEB/minetest-balloon-blocks
+[submodule "ban_hacker"]
+	path = ban_hacker
+	url = https://github.com/Emojigit/ban_hacker
+[submodule "banners-mod"]
+	path = banners-mod
+	url = https://github.com/nyje/banners-mod
+[submodule "barrier"]
+	path = barrier
+	url = https://github.com/Gerold55/barrier
+[submodule "basic_houses"]
+	path = basic_houses
+	url = https://github.com/Sokomine/basic_houses
+[submodule "basic_materials"]
+	path = basic_materials
+	url = https://gitlab.com/VanessaE/basic_materials
+[submodule "basic_robot"]
+	path = basic_robot
+	url = https://github.com/ac-minetest/basic_robot
+[submodule "basic_signs"]
+	path = basic_signs
+	url = https://gitlab.com/VanessaE/basic_signs
+[submodule "basic_trains"]
+	path = basic_trains
+	url = https://git.bananach.space/basic_trains.git/
+[submodule "beacon"]
+	path = beacon
+	url = https://github.com/OgelGames/beacon
+[submodule "beacons"]
+	path = beacons
+	url = https://notabug.org/SpaghettiToastBook/beacons
+[submodule "better_fences"]
+	path = better_fences
+	url = https://github.com/ChimneySwift/better_fences
+[submodule "better_nametags_ccs"]
+	path = better_nametags_ccs
+	url = https://github.com/Emojigit/better_nametags_ccs
+[submodule "biome_lib"]
+	path = biome_lib
+	url = https://gitlab.com/VanessaE/biome_lib
+[submodule "blockexchange"]
+	path = blockexchange
+	url = https://github.com/blockexchange/blockexchange
+[submodule "block_in_block"]
+	path = block_in_block
+	url = https://github.com/TumeniNodes/block_in_block
+[submodule "bonemeal"]
+	path = bonemeal
+	url = https://notabug.org/TenPlus1/bonemeal
+[submodule "books"]
+	path = books
+	url = https://github.com/everamzah/books
+[submodule "bouncy_bed"]
+	path = bouncy_bed
+	url = https://notabug.org/MeseCraft/bouncy_bed
+[submodule "bows"]
+	path = bows
+	url = https://github.com/AiTechEye/bows
+[submodule "bridger"]
+	path = bridger
+	url = https://github.com/v-rob/bridger
+[submodule "brick_furnace"]
+	path = brick_furnace
+	url = https://github.com/Emojigit/brick_furnace
+[submodule "fluid_lib"]
+	path = fluid_lib
+	url = https://gitlab.icynet.eu/evert/fluid_lib
+[submodule "builtin_item"]
+	path = builtin_item
+	url = https://notabug.org/TenPlus1/builtin_item
+[submodule "cake"]
+	path = cake
+	url = https://github.com/minetest-mods/cake
+[submodule "canned_food"]
+	path = canned_food
+	url = https://github.com/h-v-smacker/canned_food
+[submodule "cannons"]
+	path = cannons
+	url = https://bitbucket.org/kingarthursteam/cannons
+[submodule "castle_farming"]
+	path = castle_farming
+	url = https://github.com/minetest-mods/castle_farming
+[submodule "castle_gates"]
+	path = castle_gates
+	url = https://github.com/minetest-mods/castle_gates
+[submodule "castle_lighting"]
+	path = castle_lighting
+	url = https://github.com/minetest-mods/castle_lighting
+[submodule "castle_masonry"]
+	path = castle_masonry
+	url = https://github.com/minetest-mods/castle_masonry
+[submodule "castle_shields"]
+	path = castle_shields
+	url = https://github.com/minetest-mods/castle_shields
+[submodule "castle_storage"]
+	path = castle_storage
+	url = https://github.com/minetest-mods/castle_storage
+[submodule "castle_tapestries"]
+	path = castle_tapestries
+	url = https://github.com/minetest-mods/castle_tapestries
+[submodule "castle_weapons"]
+	path = castle_weapons
+	url = https://github.com/minetest-mods/castle_weapons
+[submodule "cblocks"]
+	path = cblocks
+	url = https://notabug.org/TenPlus1/cblocks
+[submodule "ccs_alias"]
+	path = ccs_alias
+	url = https://github.com/Emojigit/ccs_alias
+[submodule "ccs_commands"]
+	path = ccs_commands
+	url = https://github.com/Emojigit/ccs_commands
+[submodule "ccs_jail"]
+	path = ccs_jail
+	url = https://github.com/Emojigit/ccs_jail
+[submodule "ccs_more_roles"]
+	path = ccs_more_roles
+	url = https://github.com/Emojigit/ccs_more_roles
+[submodule "c_doors"]
+	path = c_doors
+	url = https://github.com/h-v-smacker/c_doors
+[submodule "character_creator"]
+	path = character_creator
+	url = https://github.com/minetest-mods/character_creator
+[submodule "chat_history"]
+	path = chat_history
+	url = https://bitbucket.org/sorcerykid/chat_history
+[submodule "chat_record"]
+	path = chat_record
+	url = https://github.com/Emojigit/chat_record
+[submodule "christmas"]
+	path = christmas
+	url = https://github.com/Extex101/christmas
+[submodule "christmas_decor"]
+	path = christmas_decor
+	url = https://github.com/GreenXenith/christmas_decor
+[submodule "climate_api"]
+	path = climate_api
+	url = https://github.com/t-affeldt/climate_api
+[submodule "crafting_bench"]
+	path = crafting_bench
+	url = https://github.com/minetest-mods/crafting_bench
+[submodule "crops"]
+	path = crops
+	url = https://github.com/minetest-mods/crops
+[submodule "currency"]
+	path = currency
+	url = https://gitlab.com/VanessaE/currency
+[submodule "death_messages"]
+	path = death_messages
+	url = https://github.com/4Evergreen4/death_messages
+[submodule "digiline_network"]
+	path = digiline_network
+	url = https://github.com/Emojigit/digiline_network
+[submodule "digiline_remote"]
+	path = digiline_remote
+	url = https://github.com/Desour/digiline_remote
+[submodule "digilines"]
+	path = digilines
+	url = https://github.com/minetest-mods/digilines
+[submodule "digiline-stuff"]
+	path = digiline-stuff
+	url = https://github.com/jogag/digiline-stuff
+[submodule "digiline_terminal"]
+	path = digiline_terminal
+	url = https://github.com/12Me21/digiline_terminal
+[submodule "digistuff"]
+	path = digistuff
+	url = https://gitlab.com/yw05/digistuff.git
+[submodule "digiterms"]
+	path = digiterms
+	url = https://github.com/pyrollo/digiterms
+[submodule "digtron"]
+	path = digtron
+	url = https://github.com/h-v-smacker/digtron
+[submodule "disco_trains"]
+	path = disco_trains
+	url = https://gitlab.com/h2mm/disco_trains
+[submodule "drawers"]
+	path = drawers
+	url = https://github.com/minetest-mods/drawers
+[submodule "dtime_debug"]
+	path = dtime_debug
+	url = https://github.com/C-C-Minetest-Server/dtime_debug
+[submodule "elevator"]
+	path = elevator
+	url = https://github.com/shacknetisp/elevator
+[submodule "ehlphabet"]
+	path = ehlphabet
+	url = https://git.bananach.space/ehlphabet.git
+[submodule "emoji"]
+	path = emoji
+	url = https://github.com/bosapara/emoji
+[submodule "emote"]
+	path = emote
+	url = https://github.com/minetest-mods/emote
+[submodule "enchanting"]
+	path = enchanting
+	url = https://github.com/C-C-Minetest-Server/enchanting
+[submodule "engrave"]
+	path = engrave
+	url = https://github.com/orwell96/engrave
+[submodule "ethereal"]
+	path = ethereal
+	url = https://notabug.org/TenPlus1/ethereal
+[submodule "farming_flood"]
+	path = farming_flood
+	url = https://github.com/AFCMS/farming_flood
+[submodule "filter"]
+	path = filter
+	url = https://github.com/minetest-mods/filter
+[submodule "fireworkz"]
+	path = fireworkz
+	url = https://github.com/runsy/fireworkz
+[submodule "fishing"]
+	path = fishing
+	url = https://github.com/MinetestForFun/fishing
+[submodule "font_api"]
+	path = font_api
+	url = https://github.com/minetest-mods/font_api
+[submodule "display_modpack"]
+	path = display_modpack
+	url = https://github.com/pyrollo/display_modpack
+[submodule "font_oldwizard"]
+	path = font_oldwizard
+	url = https://github.com/pyrollo/font_oldwizard
+[submodule "font_botic"]
+	path = font_botic
+	url = https://github.com/pyrollo/font_botic
+[submodule "food"]
+	path = food
+	url = https://github.com/rubenwardy/food
+[submodule "minetest_forge"]
+	path = minetest_forge
+	url = https://github.com/yzziizzy/minetest_forge
+[submodule "function_delayer"]
+	path = function_delayer
+	url = https://github.com/HybridDog/function_delayer
+[submodule "get_mod_log"]
+	path = get_mod_log
+	url = https://github.com/Emojigit/get_mod_log
+[submodule "getter"]
+	path = getter
+	url = https://github.com/Emojigit/getter
+[submodule "glass_stained"]
+	path = glass_stained
+	url = https://github.com/h-v-smacker/glass_stained
+[submodule "ham_radio"]
+	path = ham_radio
+	url = https://github.com/technix/ham_radio
+[submodule "handholds"]
+	path = handholds
+	url = https://github.com/Ezhh/handholds
+[submodule "handle_schematics"]
+	path = handle_schematics
+	url = https://github.com/Sokomine/handle_schematics
+[submodule "hangglider"]
+	path = hangglider
+	url = https://git.bananach.space/hangglider.git
+[submodule "minetest_hbarmor"]
+	path = minetest_hbarmor
+	url = https://repo.or.cz/minetest_hbarmor.git
+[submodule "minetest_hbhunger"]
+	path = minetest_hbhunger
+	url = https://repo.or.cz/minetest_hbhunger.git
+[submodule "heads"]
+	path = heads
+	url = https://github.com/thefamilygrog66/heads
+[submodule "hidden_chests"]
+	path = hidden_chests
+	url = https://github.com/Emojigit/hidden_chests
+[submodule "hidroplane"]
+	path = hidroplane
+	url = https://github.com/APercy/hidroplane
+[submodule "homedecor_modpack"]
+	path = homedecor_modpack
+	url = https://gitlab.com/VanessaE/homedecor_modpack.git
+[submodule "hot_air_balloons"]
+	path = hot_air_balloons
+	url = https://notabug.org/NetherEran/hot_air_balloons
+[submodule "minetest_hudbars"]
+	path = minetest_hudbars
+	url = https://repo.or.cz/minetest_hudbars.git
+[submodule "ilights"]
+	path = ilights
+	url = https://gitlab.com/VanessaE/ilights
+[submodule "minetest-illumination"]
+	path = minetest-illumination
+	url = https://notabug.org/Piezo_/minetest-illumination
+[submodule "init_message"]
+	path = init_message
+	url = https://github.com/Emojigit/init_message
+[submodule "minetest-jail"]
+	path = minetest-jail
+	url = https://github.com/TheZenKitteh/minetest-jail
+[submodule "minetest_adminshop"]
+	path = minetest_adminshop
+	url = https://github.com/Jean28518/minetest_adminshop
+[submodule "jeans_economy"]
+	path = jeans_economy
+	url = https://github.com/Jean28518/jeans_economy
+[submodule "kicktools"]
+	path = kicktools
+	url = https://github.com/Emojigit/kicktools
+[submodule "know_where_you_die"]
+	path = know_where_you_die
+	url = https://github.com/Emojigit/know_where_you_die
+[submodule "laptop"]
+	path = laptop
+	url = https://github.com/Gerold55/laptop
+[submodule "lava_n_water"]
+	path = lava_n_water
+	url = https://github.com/Emojigit/lava_n_water
+[submodule "lavastuff"]
+	path = lavastuff
+	url = https://github.com/minetest-mods/lavastuff
+[submodule "legendary_mese"]
+	path = legendary_mese
+	url = https://github.com/gitgithu/legendary_mese
+[submodule "lightning"]
+	path = lightning
+	url = https://github.com/minetest-mods/lightning
+[submodule "linetrack"]
+	path = linetrack
+	url = git@gitlab.com:C-C-Minetest-Server/linetrack.git
+[submodule "minetest-mod--locked_door"]
+	path = minetest-mod--locked_door
+	url = https://github.com/MetalDescendant/minetest-mod--locked_door
+[submodule "locked_travelnet"]
+	path = locked_travelnet
+	url = https://github.com/Sokomine/locked_travelnet
+[submodule "locks"]
+	path = locks
+	url = https://github.com/Sokomine/locks
+[submodule "lrfurn"]
+	path = lrfurn
+	url = https://github.com/thefamilygrog66/lrfurn
+[submodule "lucky_block"]
+	path = lucky_block
+	url = https://notabug.org/TenPlus1/lucky_block
+[submodule "mailbox"]
+	path = mailbox
+	url = http://git.linux-forks.de/mailbox/
+[submodule "mail_mod"]
+	path = mail_mod
+	url = https://github.com/minetest-mail/mail_mod
+[submodule "maple"]
+	path = maple
+	url = https://notabug.org/dacmot/maple.git
+[submodule "mapserver_mod"]
+	path = mapserver_mod
+	url = https://github.com/minetest-mapserver/mapserver_mod
+[submodule "maptools"]
+	path = maptools
+	url = https://github.com/minetest-mods/maptools
+[submodule "mcl_anvil_for_mt_game"]
+	path = mcl_anvil_for_mt_game
+	url = https://github.com/Emojigit/mcl_anvil_for_mt_game
+[submodule "mcl_chest_for_mt_game"]
+	path = mcl_chest_for_mt_game
+	url = https://github.com/Emojigit/mcl_chest_for_mt_game
+[submodule "melterns"]
+	path = melterns
+	url = https://gitlab.icynet.eu/evert/melterns
+[submodule "memorandum"]
+	path = memorandum
+	url = https://github.com/Mossmanikin/memorandum
+[submodule "mesecar"]
+	path = mesecar
+	url = https://github.com/paramat/mesecar
+[submodule "mesecons"]
+	path = mesecons
+	url = https://github.com/minetest-mods/mesecons
+[submodule "mesecons_powerblock"]
+	path = mesecons_powerblock
+	url = https://github.com/Emojigit/mesecons_powerblock
+[submodule "mesecons_window"]
+	path = mesecons_window
+	url = https://repo.or.cz/mesecons_window.git
+[submodule "metrosigns"]
+	path = metrosigns
+	url = https://github.com/axcore/metrosigns
+[submodule "mg_villages"]
+	path = mg_villages
+	url = https://github.com/Sokomine/mg_villages
+[submodule "minetest-3d_armor"]
+	path = minetest-3d_armor
+	url = https://github.com/stujones11/minetest-3d_armor
+[submodule "minetest_biofuel"]
+	path = minetest_biofuel
+	url = https://github.com/APercy/minetest_biofuel
+[submodule "minetest-mod-weather"]
+	path = minetest-mod-weather
+	url = https://github.com/Jeija/minetest-mod-weather
+[submodule "minetest-pencil"]
+	path = minetest-pencil
+	url = https://github.com/Emojigit/minetest-pencil
+[submodule "Minetest-WorldEdit"]
+	path = Minetest-WorldEdit
+	url = https://github.com/Uberi/Minetest-WorldEdit
+[submodule "mobf_trader"]
+	path = mobf_trader
+	url = https://github.com/Sokomine/mobf_trader
+[submodule "mob_horse"]
+	path = mob_horse
+	url = https://notabug.org/TenPlus1/mob_horse
+[submodule "mobkit"]
+	path = mobkit
+	url = https://github.com/TheTermos/mobkit
+[submodule "mobs_animal"]
+	path = mobs_animal
+	url = https://notabug.org/TenPlus1/mobs_animal
+[submodule "mobs_npc"]
+	path = mobs_npc
+	url = https://notabug.org/TenPlus1/mobs_npc
+[submodule "mobs_redo"]
+	path = mobs_redo
+	url = https://notabug.org/TenPlus1/mobs_redo
+[submodule "mobs_water"]
+	path = mobs_water
+	url = https://github.com/blert2112/mobs_water
+[submodule "mod-alternode"]
+	path = mod-alternode
+	url = https://github.com/AntumMT/mod-alternode
+[submodule "modlib"]
+	path = modlib
+	url = https://github.com/appgurueu/modlib.git
+[submodule "modutil"]
+	path = modutil
+	url = https://github.com/theFox6/modutil
+[submodule "monitoring"]
+	path = monitoring
+	url = https://github.com/minetest-monitoring/monitoring
+[submodule "monitoring_advtrains"]
+	path = monitoring_advtrains
+	url = https://github.com/minetest-monitoring/monitoring_advtrains
+[submodule "monitoring_digilines"]
+	path = monitoring_digilines
+	url = https://github.com/minetest-monitoring/monitoring_digilines
+[submodule "monitoring_digtron"]
+	path = monitoring_digtron
+	url = https://github.com/minetest-monitoring/monitoring_digtron
+[submodule "monitoring_drawers"]
+	path = monitoring_drawers
+	url = https://github.com/minetest-monitoring/monitoring_drawers
+[submodule "monitoring_mesecons"]
+	path = monitoring_mesecons
+	url = https://github.com/minetest-monitoring/monitoring_mesecons
+[submodule "monitoring_pipeworks"]
+	path = monitoring_pipeworks
+	url = https://github.com/minetest-monitoring/monitoring_pipeworks
+[submodule "monitoring_technic"]
+	path = monitoring_technic
+	url = https://github.com/minetest-monitoring/monitoring_technic
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/minetest-mods/moreblocks
+[submodule "morelights"]
+	path = morelights
+	url = https://github.com/random-geek/morelights
+[submodule "MoreMesecons"]
+	path = MoreMesecons
+	url = https://github.com/minetest-mods/MoreMesecons
+[submodule "more_mese_post_light"]
+	path = more_mese_post_light
+	url = https://github.com/Emojigit/more_mese_post_light
+[submodule "moreores"]
+	path = moreores
+	url = https://github.com/minetest-mods/moreores
+[submodule "minetest-moretrains"]
+	path = minetest-moretrains
+	url = https://notabug.org/rbduck/minetest-moretrains
+[submodule "moretrees"]
+	path = moretrees
+	url = https://gitlab.com/VanessaE/moretrees
+[submodule "motorboat"]
+	path = motorboat
+	url = https://github.com/APercy/motorboat
+[submodule "multihome"]
+	path = multihome
+	url = https://github.com/octacian/multihome
+[submodule "multitools"]
+	path = multitools
+	url = https://github.com/ChimneySwift/multitools
+[submodule "mymillwork"]
+	path = mymillwork
+	url = https://github.com/minetest-mods/mymillwork
+[submodule "node_placer"]
+	path = node_placer
+	url = https://github.com/C-C-Minetest-Server/node_placer
+[submodule "no_hack_client"]
+	path = no_hack_client
+	url = https://github.com/Emojigit/no_hack_client
+[submodule "nonew"]
+	path = nonew
+	url = https://github.com/taikedz-mt/nonew
+[submodule "notices"]
+	path = notices
+	url = https://github.com/LoneWolfHT/notices
+[submodule "orbs_of_time"]
+	path = orbs_of_time
+	url = https://github.com/minetest-mods/orbs_of_time
+[submodule "overpowered"]
+	path = overpowered
+	url = https://github.com/aidanlcb/overpowered
+[submodule "painting"]
+	path = painting
+	url = https://github.com/kaeza/painting
+[submodule "pathv7"]
+	path = pathv7
+	url = https://github.com/C-C-Minetest-Server/pathv7
+[submodule "pencil_redo"]
+	path = pencil_redo
+	url = https://github.com/Emojigit/pencil_redo
+[submodule "petz"]
+	path = petz
+	url = https://github.com/runsy/petz
+[submodule "pie"]
+	path = pie
+	url = https://notabug.org/tenplus1/pie
+[submodule "pipeworks"]
+	path = pipeworks
+	url = https://gitlab.com/VanessaE/pipeworks
+[submodule "place_node"]
+	path = place_node
+	url = https://github.com/Emojigit/place_node
+[submodule "pos_marker"]
+	path = pos_marker
+	url = https://github.com/Emojigit/pos_marker
+[submodule "pvp_areas"]
+	path = pvp_areas
+	url = https://github.com/everamzah/pvp_areas
+[submodule "quartz"]
+	path = quartz
+	url = https://github.com/minetest-mods/quartz
+[submodule "reportlist"]
+	path = reportlist
+	url = https://github.com/Lejo1/reportlist
+[submodule "rgblightstone"]
+	path = rgblightstone
+	url = https://github.com/Emojigit/rgblightstone
+[submodule "ropes"]
+	path = ropes
+	url = https://github.com/minetest-mods/ropes
+[submodule "servercleaner"]
+	path = servercleaner
+	url = https://github.com/AiTechEye/servercleaner
+[submodule "server_news"]
+	path = server_news
+	url = https://github.com/Ezhh/server_news
+[submodule "serversay"]
+	path = serversay
+	url = https://github.com/Truemmerer/serversay
+[submodule "shooter"]
+	path = shooter
+	url = https://github.com/stujones11/shooter
+[submodule "signs_lib"]
+	path = signs_lib
+	url = https://gitlab.com/VanessaE/signs_lib
+[submodule "simple_streetlights"]
+	path = simple_streetlights
+	url = https://gitlab.com/VanessaE/simple_streetlights.git
+[submodule "skinsdb"]
+	path = skinsdb
+	url = https://github.com/minetest-mods/skinsdb
+[submodule "smartshop"]
+	path = smartshop
+	url = https://github.com/AiTechEye/smartshop
+[submodule "smod_colored_chat"]
+	path = smod_colored_chat
+	url = https://github.com/Emojigit/smod_colored_chat
+[submodule "smoke_signals"]
+	path = smoke_signals
+	url = https://github.com/ExeVirus/smoke_signals
+[submodule "minetest-mod-snow"]
+	path = minetest-mod-snow
+	url = https://github.com/Splizard/minetest-mod-snow
+[submodule "space"]
+	path = space
+	url = https://github.com/AiTechEye/space
+[submodule "spacecannon"]
+	path = spacecannon
+	url = https://github.com/pandorabox-io/spacecannon
+[submodule "spectator_mode"]
+	path = spectator_mode
+	url = https://github.com/minetest-mods/spectator_mode
+[submodule "stained_glass"]
+	path = stained_glass
+	url = https://github.com/minetest-mods/stained_glass
+[submodule "stairsplus"]
+	path = stairsplus
+	url = https://github.com/CasimirKaPazi/stairsplus
+[submodule "streets"]
+	path = streets
+	url = https://github.com/minetest-streets/streets
+[submodule "minetest-str_helpers"]
+	path = minetest-str_helpers
+	url = https://github.com/ZNixian/minetest-str_helpers
+[submodule "stuff_generator"]
+	path = stuff_generator
+	url = https://github.com/Emojigit/stuff_generator
+[submodule "subcommands"]
+	path = subcommands
+	url = https://github.com/Emojigit/subcommands
+[submodule "sudo"]
+	path = sudo
+	url = https://github.com/C-C-Minetest-Server/sudo
+[submodule "technic"]
+	path = technic
+	url = https://github.com/minetest-mods/technic
+[submodule "technic_chests"]
+	path = technic_chests
+	url = https://github.com/GreenXenith/technic_chests
+[submodule "technic_cnc_improve"]
+	path = technic_cnc_improve
+	url = https://github.com/Emojigit/technic_cnc_improve
+[submodule "technic_grass_clean"]
+	path = technic_grass_clean
+	url = https://github.com/Emojigit/technic_grass_clean
+[submodule "technic_hv_extend"]
+	path = technic_hv_extend
+	url = https://github.com/Emojigit/technic_hv_extend
+[submodule "technic_lamp"]
+	path = technic_lamp
+	url = https://github.com/Emojigit/technic_lamp
+[submodule "technic_sawmill"]
+	path = technic_sawmill
+	url = https://github.com/Emojigit/technic_sawmill
+[submodule "technic_solar_furnace"]
+	path = technic_solar_furnace
+	url = https://github.com/Emojigit/technic_solar_furnace
+[submodule "teleport_potion"]
+	path = teleport_potion
+	url = https://notabug.org/TenPlus1/teleport_potion
+[submodule "teleport-request"]
+	path = teleport-request
+	url = https://github.com/ChaosWormz/teleport-request
+[submodule "textline"]
+	path = textline
+	url = https://github.com/gbl08ma/textline
+[submodule "tinfo"]
+	path = tinfo
+	url = https://github.com/Emojigit/tinfo
+[submodule "titanium"]
+	path = titanium
+	url = https://github.com/HybridDog/titanium
+[submodule "minetest-toolranks"]
+	path = minetest-toolranks
+	url = https://github.com/lisacvuk/minetest-toolranks
+[submodule "towercrane"]
+	path = towercrane
+	url = https://github.com/minetest-mods/towercrane
+[submodule "trainblocks_bc"]
+	path = trainblocks_bc
+	url = https://github.com/maxhipp/trainblocks_bc
+[submodule "trampoline"]
+	path = trampoline
+	url = https://github.com/Emojigit/trampoline
+[submodule "trash_can"]
+	path = trash_can
+	url = https://github.com/minetest-mods/trash_can
+[submodule "travelnet"]
+	path = travelnet
+	url = https://github.com/Sokomine/travelnet
+[submodule "ts_workshop"]
+	path = ts_workshop
+	url = https://github.com/minetest-mods/ts_workshop
+[submodule "tunnelmaker"]
+	path = tunnelmaker
+	url = https://github.com/kestral246/tunnelmaker
+[submodule "unifieddyes"]
+	path = unifieddyes
+	url = https://gitlab.com/VanessaE/unifieddyes
+[submodule "unified_inventory"]
+	path = unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory
+[submodule "unified_inventory_plus"]
+	path = unified_inventory_plus
+	url = https://github.com/bousket/unified_inventory_plus
+[submodule "unknown_item"]
+	path = unknown_item
+	url = https://github.com/C-C-Minetest-Server/unknown_item
+[submodule "vehicles"]
+	path = vehicles
+	url = https://github.com/D00Med/vehicles
+[submodule "village_gambit"]
+	path = village_gambit
+	url = https://github.com/Sokomine/village_gambit
+[submodule "vote"]
+	path = vote
+	url = https://github.com/rubenwardy/vote
+[submodule "vote_time"]
+	path = vote_time
+	url = https://github.com/Emojigit/vote_time
+[submodule "walkway"]
+	path = walkway
+	url = https://git.bananach.space/walkway.git
+[submodule "water_life"]
+	path = water_life
+	url = https://github.com/berengma/water_life
+[submodule "we_undo"]
+	path = we_undo
+	url = https://github.com/HybridDog/we_undo
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/minetest-mods/wiki
+[submodule "windmill"]
+	path = windmill
+	url = https://github.com/Sokomine/windmill
+[submodule "wine"]
+	path = wine
+	url = https://gitlab.com/Felfa/wine
+[submodule "witches"]
+	path = witches
+	url = https://gitlab.com/freelikegnu/witches
+[submodule "wooden_bucket"]
+	path = wooden_bucket
+	url = https://gitlab.com/h2mm/wooden_bucket
+[submodule "xban2"]
+	path = xban2
+	url = http://git.bananach.space/xban2.git
+[submodule "xdecor"]
+	path = xdecor
+	url = https://github.com/minetest-mods/xdecor
+[submodule "advtrains_platform"]
+	path = advtrains_platform
+	url = https://git.bananach.space/advtrains_platform.git
+[submodule "display_api"]
+	path = display_api
+	url = https://github.com/minetest-mods/display_api
+[submodule "extra_doors"]
+	path = extra_doors
+	url = https://bitbucket.org/sorcerykid/extra_doors
+[submodule "farebox"]
+	path = farebox
+	url = https://github.com/gpcf/farebox
+[submodule "Farming"]
+	path = Farming
+	url = https://notabug.org/TenPlus1/Farming
+[submodule "farming_nextgen"]
+	path = farming_nextgen
+	url = https://github.com/berengma/farming_nextgen
+[submodule "feedlot"]
+	path = feedlot
+	url = https://git.bananach.space/feedlot.git/
+[submodule "laptop_pc1"]
+	path = laptop_pc1
+	url = https://github.com/Gerold55/PCPack1
+[submodule "scuba"]
+	path = scuba
+	url = https://github.com/jordan4ibanez/scuba
