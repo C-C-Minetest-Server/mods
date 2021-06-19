@@ -787,3 +787,7 @@
 [submodule "scuba"]
 	path = scuba
 	url = https://github.com/jordan4ibanez/scuba
+[submodule ".games/mineclone5"]
+	path = .games/mineclone5
+	url = https://git.minetest.land/MineClone2/MineClone2.git
+	branch = mineclone5
