@@ -3,7 +3,6 @@ name: lua_lint
 # From https://github.com/minetest/minetest/blob/master/.github/workflows/lua_lint.yml
 # Lint on lua changes on builtin or if workflow changed
 on:
-  push:
   pull_request:
 
 jobs:
