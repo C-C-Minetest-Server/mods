@@ -1,0 +1,28 @@
+name: lua_lint
+
+# From https://github.com/minetest/minetest/blob/master/.github/workflows/lua_lint.yml
+# Lint on lua changes on builtin or if workflow changed
+on:
+  push:
+  pull_request:
+
+jobs:
+  luacheck:
+    name: "Builtin Luacheck and Unit Tests"
+    runs-on: ubuntu-18.04
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install luarocks
+      run: |
+        sudo apt-get install luarocks -qyy
+    - name: Install luarocks tools
+      run: |
+        luarocks install --local luacheck
+        luarocks install --local busted
+    - name: Update submodules
+      run: |
+        git submodule update --init --recursive
+    - name: Run checks
+      run: |
+        $HOME/.luarocks/bin/luacheck builtin
+        $HOME/.luarocks/bin/busted builtin
