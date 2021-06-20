@@ -1,5 +1,7 @@
 # C&amp;C Servers Mod Collection
 This repo is the collection of C&amp;C Servers Mods. ***NOT ALL OF THEM ARE USED IN C&amp;C SERVERS!***
+
+[`.games`](.games) directionary contains games of C&amp;C Servers.
 ## Download
 Use:
 ```bash
