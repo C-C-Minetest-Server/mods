@@ -20,8 +20,7 @@ jobs:
         luarocks install --local busted
     - name: Update submodules
       run: |
-        echo "Using $(nproc) threads to pull submodules"
-        git submodule update --init --recursive -j$(nproc)
+        git submodule update --init --recursive
     - name: Run checks
       run: |
         $HOME/.luarocks/bin/luacheck .
