@@ -785,3 +785,6 @@
 	path = .games/mineclone5
 	url = https://git.minetest.land/MineClone2/MineClone2.git
 	branch = mineclone5
+[submodule "cottages"]
+	path = cottages
+	url = https://github.com/Sokomine/cottages
