@@ -643,9 +643,6 @@
 [submodule "technic"]
 	path = technic
 	url = https://github.com/minetest-mods/technic
-[submodule "technic_chests"]
-	path = technic_chests
-	url = https://github.com/GreenXenith/technic_chests
 [submodule "technic_cnc_improve"]
 	path = technic_cnc_improve
 	url = https://github.com/Emojigit/technic_cnc_improve
