@@ -37,9 +37,6 @@
 [submodule "balloonblocks"]
 	path = balloonblocks
 	url = https://github.com/C-C-Minetest-Server/balloonblocks
-[submodule "minetest-balloon-blocks"]
-	path = minetest-balloon-blocks
-	url = https://github.com/TBSHEB/minetest-balloon-blocks
 [submodule "ban_hacker"]
 	path = ban_hacker
 	url = https://github.com/Emojigit/ban_hacker
