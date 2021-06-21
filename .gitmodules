@@ -629,7 +629,7 @@
 	path = streets
 	url = https://github.com/minetest-streets/streets
 [submodule "minetest-str_helpers"]
-	path = minetest-str_helpers
+	path = str_helpers
 	url = https://github.com/ZNixian/minetest-str_helpers
 [submodule "stuff_generator"]
 	path = stuff_generator
