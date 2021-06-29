@@ -788,3 +788,6 @@
 [submodule "cottages"]
 	path = cottages
 	url = https://github.com/Sokomine/cottages
+[submodule "access_cards"]
+	path = access_cards
+	url = https://github.com/damocles-minetest/access_cards
