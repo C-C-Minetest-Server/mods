@@ -6,4 +6,5 @@ updates:
       interval: "daily"
     labels:
       - "update"
+    open-pull-requests-limit: 10
 
