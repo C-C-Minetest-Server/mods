@@ -5,7 +5,7 @@ local changes = {
 }
 
 local func_changes = {}
-table.insert(func_changes,{function (nname)
+--[[table.insert(func_changes,{function (nname)
 	local ndef = minetest.registered_nodes[nname]
 	if not ndef then return false end
 	if ndef.mod_origin == "moreblocks" and ndef.drawtype == "mesh" then
@@ -14,7 +14,7 @@ table.insert(func_changes,{function (nname)
 	end
 end, {
 	groups = { not_blocking_trains = 1,},
-}})
+}})]]
 
 for k,v in pairs(changes) do
 	minetest.override_item(k,v)
