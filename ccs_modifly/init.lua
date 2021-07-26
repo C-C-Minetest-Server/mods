@@ -62,3 +62,5 @@ for k,v in pairs(func_changes) do
 	end
 end
 
+-- Additional code starts
+beacon.unregister_effect("fly")
