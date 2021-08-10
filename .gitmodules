@@ -1,9 +1,6 @@
 [submodule "advtrains"]
 	path = advtrains
 	url = https://git.bananach.space/advtrains.git
-[submodule "aerotest"]
-	path = aerotest
-	url = https://github.com/berengma/aerotest
 [submodule "airtanks"]
 	path = airtanks
 	url = https://github.com/minetest-mods/airtanks
@@ -160,21 +157,12 @@
 [submodule "character_creator"]
 	path = character_creator
 	url = https://github.com/minetest-mods/character_creator
-[submodule "chat_history"]
-	path = chat_history
-	url = https://bitbucket.org/sorcerykid/chat_history
-[submodule "chat_record"]
-	path = chat_record
-	url = https://github.com/Emojigit/chat_record
 [submodule "christmas"]
 	path = christmas
 	url = https://github.com/Extex101/christmas
 [submodule "christmas_decor"]
 	path = christmas_decor
 	url = https://github.com/GreenXenith/christmas_decor
-[submodule "climate_api"]
-	path = climate_api
-	url = https://github.com/t-affeldt/climate_api
 [submodule "crafting_bench"]
 	path = crafting_bench
 	url = https://github.com/minetest-mods/crafting_bench
@@ -268,9 +256,6 @@
 [submodule "food"]
 	path = food
 	url = https://github.com/rubenwardy/food
-[submodule "minetest_forge"]
-	path = minetest_forge
-	url = https://github.com/yzziizzy/minetest_forge
 [submodule "function_delayer"]
 	path = function_delayer
 	url = https://github.com/HybridDog/function_delayer
@@ -547,9 +532,6 @@
 [submodule "pencil_redo"]
 	path = pencil_redo
 	url = https://github.com/Emojigit/pencil_redo
-[submodule "petz"]
-	path = petz
-	url = https://github.com/runsy/petz
 [submodule "pie"]
 	path = pie
 	url = https://notabug.org/tenplus1/pie
@@ -586,9 +568,6 @@
 [submodule "serversay"]
 	path = serversay
 	url = https://github.com/Truemmerer/serversay
-[submodule "shooter"]
-	path = shooter
-	url = https://github.com/stujones11/shooter
 [submodule "signs_lib"]
 	path = signs_lib
 	url = https://gitlab.com/VanessaE/signs_lib
@@ -610,12 +589,6 @@
 [submodule "minetest-mod-snow"]
 	path = minetest-mod-snow
 	url = https://github.com/Splizard/minetest-mod-snow
-[submodule "space"]
-	path = space
-	url = https://github.com/AiTechEye/space
-[submodule "spacecannon"]
-	path = spacecannon
-	url = https://github.com/pandorabox-io/spacecannon
 [submodule "spectator_mode"]
 	path = spectator_mode
 	url = https://github.com/minetest-mods/spectator_mode
@@ -742,12 +715,6 @@
 [submodule "wine"]
 	path = wine
 	url = https://gitlab.com/Felfa/wine
-[submodule "witches"]
-	path = witches
-	url = https://gitlab.com/freelikegnu/witches
-[submodule "wooden_bucket"]
-	path = wooden_bucket
-	url = https://gitlab.com/h2mm/wooden_bucket
 [submodule "xban2"]
 	path = xban2
 	url = http://git.bananach.space/xban2.git
