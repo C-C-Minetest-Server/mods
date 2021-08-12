@@ -760,3 +760,6 @@
 [submodule "digibanner"]
 	path = digibanner
 	url = https://github.com/C-C-Minetest-Server/digibanner.git
+[submodule "digiline_nodes"]
+	path = digiline_nodes
+	url = https://github.com/C-C-Minetest-Server/digiline_nodes.git
