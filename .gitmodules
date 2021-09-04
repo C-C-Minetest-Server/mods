@@ -766,3 +766,6 @@
 [submodule "some_more_trains"]
 	path = some_more_trains
 	url = https://github.com/APercy/some_more_trains
+[submodule "digicontrol"]
+	path = digicontrol
+	url = https://github.com/OgelGames/digicontrol
