@@ -763,3 +763,6 @@
 [submodule "digiline_nodes"]
 	path = digiline_nodes
 	url = https://github.com/C-C-Minetest-Server/digiline_nodes.git
+[submodule "some_more_trains"]
+	path = some_more_trains
+	url = https://github.com/APercy/some_more_trains
