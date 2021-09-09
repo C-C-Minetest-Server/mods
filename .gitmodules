@@ -537,7 +537,8 @@
 	url = https://notabug.org/tenplus1/pie
 [submodule "pipeworks"]
 	path = pipeworks
-	url = https://gitlab.com/VanessaE/pipeworks
+	url = https://gitlab.com/Emojigit/pipeworks
+	branch = fork-master
 [submodule "place_node"]
 	path = place_node
 	url = https://github.com/Emojigit/place_node
