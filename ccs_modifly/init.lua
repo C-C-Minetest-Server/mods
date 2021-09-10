@@ -42,6 +42,16 @@ local for_item = {
 			minetest.override_item(nname,ndef)
 		end
 	end,
+	function(nname)
+		if not(nname == "homedecor:fence_barbed_wire" or nname == "homedecor:gate_barbed_wire_open" or nname == "homedecor:gate_barbed_wire_closed") then return end
+		local ndef = table.copy(minetest.registered_items[nname])
+		if not ndef then return end
+		ndef.name = nil
+		ndef.type = nil
+		if not ndef.groups then ndef.groups = {} end
+		ndef.groups.not_blocking_trains = 1
+		minetest.override_item(nname,ndef)
+	end,
 }
 
 for k,v in pairs(changes) do
