@@ -770,3 +770,9 @@
 [submodule "digicontrol"]
 	path = digicontrol
 	url = https://github.com/OgelGames/digicontrol
+[submodule "Minetest-WorldEditAdditions"]
+	path = Minetest-WorldEditAdditions
+	url = https://github.com/sbrl/Minetest-WorldEditAdditions
+[submodule "terraform"]
+	path = terraform
+	url = https://github.com/x2048/terraform
