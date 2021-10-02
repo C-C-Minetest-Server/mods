@@ -438,7 +438,7 @@
 	url = https://notabug.org/TenPlus1/mobs_redo
 [submodule "mobs_water"]
 	path = mobs_water
-	url = https://github.com/blert2112/mobs_water
+	url = https://notabug.org/TenPlus1/mobs_water
 [submodule "mod-alternode"]
 	path = mod-alternode
 	url = https://github.com/AntumMT/mod-alternode
