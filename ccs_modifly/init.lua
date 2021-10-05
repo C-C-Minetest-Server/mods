@@ -74,3 +74,4 @@ end
 
 -- Additional code starts
 beacon.unregister_effect("fly")
+morelights_dim.register_light_level_tool("morelights:bulb")

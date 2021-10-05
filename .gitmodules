@@ -776,3 +776,6 @@
 [submodule "terraform"]
 	path = terraform
 	url = https://github.com/x2048/terraform
+[submodule "doxy_morelights_dim"]
+	path = doxy_morelights_dim
+	url = https://invent.kde.org/davidhurka/doxy_morelights_dim.git
