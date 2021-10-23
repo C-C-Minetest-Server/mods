@@ -779,3 +779,6 @@
 [submodule "doxy_morelights_dim"]
 	path = doxy_morelights_dim
 	url = https://invent.kde.org/davidhurka/doxy_morelights_dim.git
+[submodule "mapserver_server_NoInModConf"]
+	path = mapserver_server_NoInModConf
+	url = https://github.com/minetest-mapserver/mapserver
