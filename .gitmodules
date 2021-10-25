@@ -782,3 +782,15 @@
 [submodule "mapserver_server_NoInModConf"]
 	path = mapserver_server_NoInModConf
 	url = https://github.com/minetest-mapserver/mapserver
+[submodule "pixelart"]
+	path = pixelart
+	url = https://gitlab.com/4w/pixelart
+[submodule "led_marquee"]
+	path = led_marquee
+	url = https://gitlab.com/VanessaE/led_marquee
+[submodule "mesecons_x"]
+	path = mesecons_x
+	url = https://gitlab.com/deetmit/mesecons_x
+[submodule "mesecons_carts"]
+	path = mesecons_carts
+	url = https://cheapiesystems.com/git/mesecons_carts/
