@@ -2,7 +2,7 @@ local function air(pos)
 	minetest.set_node(pos,{name="air"})
 end
 minetest.register_node("ccs_temp_blocks:temp_block_water", {
-	destription = "Moderation Temp Block (Liquid Pointable)",
+	description = "Moderation Temp Block (Liquid Pointable)",
 	drawtype = "airlike",
 	on_construct = air,
 	on_punch = air,
@@ -14,7 +14,7 @@ minetest.register_node("ccs_temp_blocks:temp_block_water", {
 })
 
 minetest.register_node("ccs_temp_blocks:temp_block_water", {
-	destription = "Moderation Temp Block",
+	description = "Moderation Temp Block",
 	drawtype = "airlike",
 	on_construct = air,
 	on_punch = air,
