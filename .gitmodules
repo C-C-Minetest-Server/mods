@@ -794,3 +794,6 @@
 [submodule "mesecons_carts"]
 	path = mesecons_carts
 	url = https://cheapiesystems.com/git/mesecons_carts/
+[submodule "copier"]
+	path = copier
+	url = https://github.com/C-C-Minetest-Server/copier.git
