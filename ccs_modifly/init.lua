@@ -75,3 +75,10 @@ end
 -- Additional code starts
 beacon.unregister_effect("fly")
 morelights_dim.register_light_level_tool("morelights:bulb")
+local ui_mail_btn = nil
+for x,y in pairs(unified_inventory.buttons) do 
+	if y.name == "mail" then
+		ui_mail_btn = x
+	end
+end
+unified_inventory.buttons[ui_mail_btn] = nil
