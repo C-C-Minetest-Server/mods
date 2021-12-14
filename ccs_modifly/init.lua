@@ -82,3 +82,5 @@ for x,y in pairs(unified_inventory.buttons) do
 	end
 end
 unified_inventory.buttons[ui_mail_btn] = nil
+digiline_nodes.register_digiline_node("bakedclay","white")
+digiline_nodes.register_digiline_node("bakedclay","black")
