@@ -65,3 +65,5 @@ end
 
 
 advtrains_platform.register_platform(":bakedclay","bakedclay:white")
+advtrains_platform.register_platform(":bakedclay","bakedclay:magenta")
+advtrains_platform.register_platform(":bakedclay","bakedclay:black")
