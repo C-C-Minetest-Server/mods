@@ -797,3 +797,9 @@
 [submodule "copier"]
 	path = copier
 	url = https://github.com/C-C-Minetest-Server/copier.git
+[submodule ".games/luckydude"]
+	path = .games/luckydude
+	url = https://gitlab.com/xenonca/luckydude/
+[submodule "minetest_errata"]
+	path = minetest_errata
+	url = https://github.com/h-v-smacker/minetest_errata
