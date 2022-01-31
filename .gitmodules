@@ -48,13 +48,15 @@
 	url = https://github.com/Sokomine/basic_houses
 [submodule "basic_materials"]
 	path = basic_materials
-	url = https://gitlab.com/VanessaE/basic_materials
+	url = https://github.com/mt-mods/basic_materials
+	branch = master
 [submodule "basic_robot"]
 	path = basic_robot
 	url = https://github.com/ac-minetest/basic_robot
 [submodule "basic_signs"]
 	path = basic_signs
-	url = https://gitlab.com/VanessaE/basic_signs
+	url = https://github.com/mt-mods/basic_signs
+	branch = master
 [submodule "basic_trains"]
 	path = basic_trains
 	url = https://git.bananach.space/basic_trains.git/
@@ -72,7 +74,7 @@
 	url = https://github.com/Emojigit/better_nametags_ccs
 [submodule "biome_lib"]
 	path = biome_lib
-	url = https://gitlab.com/VanessaE/biome_lib
+	url = https://github.com/mt-mods/biome_lib
 [submodule "blockexchange"]
 	path = blockexchange
 	url = https://github.com/blockexchange/blockexchange
@@ -171,7 +173,7 @@
 	url = https://github.com/minetest-mods/crops
 [submodule "currency"]
 	path = currency
-	url = https://gitlab.com/VanessaE/currency
+	url = https://github.com/mt-mods/currency
 [submodule "death_messages"]
 	path = death_messages
 	url = https://github.com/4Evergreen4/death_messages
@@ -297,7 +299,7 @@
 	url = https://github.com/APercy/hidroplane
 [submodule "homedecor_modpack"]
 	path = homedecor_modpack
-	url = https://gitlab.com/VanessaE/homedecor_modpack.git
+	url = https://github.com/mt-mods/homedecor_modpack
 [submodule "hot_air_balloons"]
 	path = hot_air_balloons
 	url = https://notabug.org/NetherEran/hot_air_balloons
@@ -306,7 +308,7 @@
 	url = https://repo.or.cz/minetest_hudbars.git
 [submodule "ilights"]
 	path = ilights
-	url = https://gitlab.com/VanessaE/ilights
+	url = https://github.com/mt-mods/ilights
 [submodule "minetest-illumination"]
 	path = minetest-illumination
 	url = https://notabug.org/Piezo_/minetest-illumination
@@ -492,7 +494,7 @@
 	url = https://notabug.org/rbduck/minetest-moretrains
 [submodule "moretrees"]
 	path = moretrees
-	url = https://gitlab.com/VanessaE/moretrees
+	url = https://github.com/mt-mods/moretrees
 [submodule "motorboat"]
 	path = motorboat
 	url = https://github.com/APercy/motorboat
@@ -538,7 +540,7 @@
 [submodule "pipeworks"]
 	path = pipeworks
 	url = https://gitlab.com/Emojigit/pipeworks
-	branch = fork-master
+	# branch = fork-master
 [submodule "place_node"]
 	path = place_node
 	url = https://github.com/Emojigit/place_node
@@ -571,10 +573,10 @@
 	url = https://github.com/Truemmerer/serversay
 [submodule "signs_lib"]
 	path = signs_lib
-	url = https://gitlab.com/VanessaE/signs_lib
+	url = https://github.com/mt-mods/signs_lib
 [submodule "simple_streetlights"]
 	path = simple_streetlights
-	url = https://gitlab.com/VanessaE/simple_streetlights.git
+	url = https://github.com/mt-mods/simple_streetlights
 [submodule "skinsdb"]
 	path = skinsdb
 	url = https://github.com/minetest-mods/skinsdb
@@ -676,7 +678,7 @@
 	url = https://github.com/kestral246/tunnelmaker
 [submodule "unifieddyes"]
 	path = unifieddyes
-	url = https://gitlab.com/VanessaE/unifieddyes
+	url = https://github.com/mt-mods/unifieddyes
 [submodule "unified_inventory"]
 	path = unified_inventory
 	url = https://github.com/minetest-mods/unified_inventory
@@ -787,7 +789,7 @@
 	url = https://gitlab.com/4w/pixelart
 [submodule "led_marquee"]
 	path = led_marquee
-	url = https://gitlab.com/VanessaE/led_marquee
+	url = https://github.com/mt-mods/led_marquee
 [submodule "mesecons_x"]
 	path = mesecons_x
 	url = https://gitlab.com/deetmit/mesecons_x
