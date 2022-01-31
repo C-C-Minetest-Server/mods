@@ -803,3 +803,7 @@
 [submodule "minetest_errata"]
 	path = minetest_errata
 	url = https://github.com/h-v-smacker/minetest_errata
+[submodule ".games/minetest_game"]
+	path = .games/minetest_game
+	url = https://github.com/minetest/minetest_game
+	branch = stable-5
