@@ -807,3 +807,9 @@
 	path = .games/minetest_game
 	url = https://github.com/minetest/minetest_game
 	branch = stable-5
+[submodule "username_policy"]
+	path = username_policy
+	url = https://github.com/C-C-Minetest-Server/username_policy
+[submodule "szutilpack"]
+	path = szutilpack
+	url = https://gitlab.com/sztest/szutilpack
