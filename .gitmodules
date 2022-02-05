@@ -34,6 +34,7 @@
 [submodule "balloonblocks"]
 	path = balloonblocks
 	url = https://github.com/C-C-Minetest-Server/balloonblocks
+	branch = fork-master
 [submodule "ban_hacker"]
 	path = ban_hacker
 	url = https://github.com/Emojigit/ban_hacker
@@ -48,13 +49,13 @@
 	url = https://github.com/Sokomine/basic_houses
 [submodule "basic_materials"]
 	path = basic_materials
-	url = https://gitlab.com/VanessaE/basic_materials
+	url = https://github.com/mt-mods/basic_materials
 [submodule "basic_robot"]
 	path = basic_robot
 	url = https://github.com/ac-minetest/basic_robot
 [submodule "basic_signs"]
 	path = basic_signs
-	url = https://gitlab.com/VanessaE/basic_signs
+	url = https://github.com/mt-mods/basic_signs/
 [submodule "basic_trains"]
 	path = basic_trains
 	url = https://git.bananach.space/basic_trains.git/
@@ -72,7 +73,7 @@
 	url = https://github.com/Emojigit/better_nametags_ccs
 [submodule "biome_lib"]
 	path = biome_lib
-	url = https://gitlab.com/VanessaE/biome_lib
+	url = https://github.com/mt-mods/biome_lib
 [submodule "blockexchange"]
 	path = blockexchange
 	url = https://github.com/blockexchange/blockexchange
@@ -171,34 +172,42 @@
 	url = https://github.com/minetest-mods/crops
 [submodule "currency"]
 	path = currency
-	url = https://gitlab.com/VanessaE/currency
+	url = https://github.com/mt-mods/currency/
 [submodule "death_messages"]
 	path = death_messages
 	url = https://github.com/4Evergreen4/death_messages
 [submodule "digiline_network"]
 	path = digiline_network
 	url = https://github.com/Emojigit/digiline_network
+	branch = master
 [submodule "digiline_remote"]
 	path = digiline_remote
 	url = https://github.com/Desour/digiline_remote
+	branch = master
 [submodule "digilines"]
 	path = digilines
 	url = https://github.com/minetest-mods/digilines
+	branch = master
 [submodule "digiline-stuff"]
 	path = digiline-stuff
 	url = https://github.com/jogag/digiline-stuff
+	branch = master
 [submodule "digiline_terminal"]
 	path = digiline_terminal
 	url = https://github.com/12Me21/digiline_terminal
+	branch = master
 [submodule "digistuff"]
 	path = digistuff
 	url = https://gitlab.com/yw05/digistuff.git
+	branch = master
 [submodule "digiterms"]
 	path = digiterms
 	url = https://github.com/pyrollo/digiterms
+	branch = master
 [submodule "digtron"]
 	path = digtron
 	url = https://github.com/h-v-smacker/digtron
+	branch = master
 [submodule "disco_trains"]
 	path = disco_trains
 	url = https://gitlab.com/h2mm/disco_trains
@@ -262,6 +271,7 @@
 [submodule "get_mod_log"]
 	path = get_mod_log
 	url = https://github.com/Emojigit/get_mod_log
+	branch = main
 [submodule "getter"]
 	path = getter
 	url = https://github.com/Emojigit/getter
@@ -295,24 +305,29 @@
 [submodule "hidroplane"]
 	path = hidroplane
 	url = https://github.com/APercy/hidroplane
+	branch = main
 [submodule "homedecor_modpack"]
 	path = homedecor_modpack
-	url = https://gitlab.com/VanessaE/homedecor_modpack.git
+	url = https://github.com/mt-mods/homedecor_modpack
+	branch = master
 [submodule "hot_air_balloons"]
 	path = hot_air_balloons
 	url = https://notabug.org/NetherEran/hot_air_balloons
+	branch = master
 [submodule "minetest_hudbars"]
 	path = minetest_hudbars
 	url = https://repo.or.cz/minetest_hudbars.git
 [submodule "ilights"]
 	path = ilights
-	url = https://gitlab.com/VanessaE/ilights
+	url = https://github.com/mt-mods/ilights
+	branch = master
 [submodule "minetest-illumination"]
-	path = minetest-illumination
+	path = illumination
 	url = https://notabug.org/Piezo_/minetest-illumination
 [submodule "init_message"]
 	path = init_message
 	url = https://github.com/Emojigit/init_message
+	branch = master
 [submodule "minetest-jail"]
 	path = minetest-jail
 	url = https://github.com/TheZenKitteh/minetest-jail
@@ -322,45 +337,58 @@
 [submodule "jeans_economy"]
 	path = jeans_economy
 	url = https://github.com/Jean28518/jeans_economy
+	branch = master
 [submodule "kicktools"]
 	path = kicktools
 	url = https://github.com/Emojigit/kicktools
+	branch = master
 [submodule "know_where_you_die"]
 	path = know_where_you_die
 	url = https://github.com/Emojigit/know_where_you_die
+	branch = master
 [submodule "laptop"]
 	path = laptop
 	url = https://github.com/Gerold55/laptop
+	branch = master
 [submodule "lava_n_water"]
 	path = lava_n_water
 	url = https://github.com/Emojigit/lava_n_water
+	branch = master
 [submodule "lavastuff"]
 	path = lavastuff
 	url = https://github.com/minetest-mods/lavastuff
+	branch = master
 [submodule "legendary_mese"]
 	path = legendary_mese
 	url = https://github.com/gitgithu/legendary_mese
+	branch = master
 [submodule "lightning"]
 	path = lightning
 	url = https://github.com/minetest-mods/lightning
+	branch = master
 [submodule "linetrack"]
 	path = linetrack
 	url = https://gitlab.com/C-C-Minetest-Server/linetrack
+	branch = master
 [submodule "minetest-mod--locked_door"]
 	path = minetest-mod--locked_door
 	url = https://github.com/MetalDescendant/minetest-mod--locked_door
 [submodule "locked_travelnet"]
 	path = locked_travelnet
 	url = https://github.com/Sokomine/locked_travelnet
+	branch = master
 [submodule "locks"]
 	path = locks
 	url = https://github.com/Sokomine/locks
+	branch = master
 [submodule "lrfurn"]
 	path = lrfurn
 	url = https://github.com/thefamilygrog66/lrfurn
+	branch = master
 [submodule "lucky_block"]
 	path = lucky_block
 	url = https://notabug.org/TenPlus1/lucky_block
+	branch = master
 [submodule "mail_mod"]
 	path = mail_mod
 	url = https://github.com/minetest-mail/mail_mod
@@ -418,81 +446,105 @@
 [submodule "Minetest-WorldEdit"]
 	path = Minetest-WorldEdit
 	url = https://github.com/Uberi/Minetest-WorldEdit
+	branch = master
 [submodule "mobf_trader"]
 	path = mobf_trader
 	url = https://github.com/Sokomine/mobf_trader
+	branch = master
 [submodule "mob_horse"]
 	path = mob_horse
 	url = https://notabug.org/TenPlus1/mob_horse
+	branch = master
 [submodule "mobkit"]
 	path = mobkit
 	url = https://github.com/TheTermos/mobkit
+	branch = master
 [submodule "mobs_animal"]
 	path = mobs_animal
 	url = https://notabug.org/TenPlus1/mobs_animal
+	branch = master
 [submodule "mobs_npc"]
 	path = mobs_npc
 	url = https://notabug.org/TenPlus1/mobs_npc
+	branch = master
 [submodule "mobs_redo"]
 	path = mobs_redo
 	url = https://notabug.org/TenPlus1/mobs_redo
+	branch = master
 [submodule "mobs_water"]
 	path = mobs_water
 	url = https://notabug.org/TenPlus1/mobs_water
+	branch = master
 [submodule "mod-alternode"]
 	path = mod-alternode
 	url = https://github.com/AntumMT/mod-alternode
+	branch = master
 [submodule "modlib"]
 	path = modlib
 	url = https://github.com/appgurueu/modlib.git
+	branch = master
 [submodule "modutil"]
 	path = modutil
 	url = https://github.com/theFox6/modutil
+	branch = master
 [submodule "monitoring"]
 	path = monitoring
 	url = https://github.com/minetest-monitoring/monitoring
+	branch = master
 [submodule "monitoring_advtrains"]
 	path = monitoring_advtrains
 	url = https://github.com/minetest-monitoring/monitoring_advtrains
+	branch = master
 [submodule "monitoring_digilines"]
 	path = monitoring_digilines
 	url = https://github.com/minetest-monitoring/monitoring_digilines
+	branch = master
 [submodule "monitoring_digtron"]
 	path = monitoring_digtron
 	url = https://github.com/minetest-monitoring/monitoring_digtron
+	branch = master
 [submodule "monitoring_drawers"]
 	path = monitoring_drawers
 	url = https://github.com/minetest-monitoring/monitoring_drawers
+	branch = master
 [submodule "monitoring_mesecons"]
 	path = monitoring_mesecons
 	url = https://github.com/minetest-monitoring/monitoring_mesecons
+	branch = master
 [submodule "monitoring_pipeworks"]
 	path = monitoring_pipeworks
 	url = https://github.com/minetest-monitoring/monitoring_pipeworks
+	branch = master
 [submodule "monitoring_technic"]
 	path = monitoring_technic
 	url = https://github.com/minetest-monitoring/monitoring_technic
+	branch = master
 [submodule "moreblocks"]
 	path = moreblocks
 	url = https://github.com/minetest-mods/moreblocks
+	branch = master
 [submodule "morelights"]
 	path = morelights
 	url = https://github.com/random-geek/morelights
+	branch = master
 [submodule "MoreMesecons"]
 	path = MoreMesecons
 	url = https://github.com/minetest-mods/MoreMesecons
+	branch = master
 [submodule "more_mese_post_light"]
 	path = more_mese_post_light
 	url = https://github.com/Emojigit/more_mese_post_light
+	branch = master
 [submodule "moreores"]
 	path = moreores
 	url = https://github.com/minetest-mods/moreores
+	branch = master
 [submodule "minetest-moretrains"]
 	path = minetest-moretrains
 	url = https://notabug.org/rbduck/minetest-moretrains
 [submodule "moretrees"]
 	path = moretrees
-	url = https://gitlab.com/VanessaE/moretrees
+	url = https://github.com/mt-mods/moretrees
 [submodule "motorboat"]
 	path = motorboat
 	url = https://github.com/APercy/motorboat
@@ -537,7 +589,7 @@
 	url = https://notabug.org/tenplus1/pie
 [submodule "pipeworks"]
 	path = pipeworks
-	url = https://gitlab.com/Emojigit/pipeworks
+	url = https://github.com/mt-mods/pipeworks
 	branch = fork-master
 [submodule "place_node"]
 	path = place_node
@@ -571,10 +623,10 @@
 	url = https://github.com/Truemmerer/serversay
 [submodule "signs_lib"]
 	path = signs_lib
-	url = https://gitlab.com/VanessaE/signs_lib
+	url = https://github.com/mt-mods/signs_lib/
 [submodule "simple_streetlights"]
 	path = simple_streetlights
-	url = https://gitlab.com/VanessaE/simple_streetlights.git
+	url = https://github.com/mt-mods/simple_streetlights/
 [submodule "skinsdb"]
 	path = skinsdb
 	url = https://github.com/minetest-mods/skinsdb
@@ -676,10 +728,10 @@
 	url = https://github.com/kestral246/tunnelmaker
 [submodule "unifieddyes"]
 	path = unifieddyes
-	url = https://gitlab.com/VanessaE/unifieddyes
+	url = https://github.com/mt-mods/unifieddyes/
 [submodule "unified_inventory"]
 	path = unified_inventory
-	url = https://github.com/minetest-mods/unified_inventory
+	url = https://github.com/mt-mods/unified_inventory
 [submodule "unified_inventory_plus"]
 	path = unified_inventory_plus
 	url = https://github.com/bousket/unified_inventory_plus
@@ -689,39 +741,51 @@
 [submodule "vehicles"]
 	path = vehicles
 	url = https://github.com/D00Med/vehicles
+	branch = master
 [submodule "village_gambit"]
 	path = village_gambit
 	url = https://github.com/Sokomine/village_gambit
+	branch = master
 [submodule "vote"]
 	path = vote
 	url = https://github.com/rubenwardy/vote
+	branch = master
 [submodule "vote_time"]
 	path = vote_time
 	url = https://github.com/Emojigit/vote_time
+	branch = main
 [submodule "walkway"]
 	path = walkway
 	url = https://git.bananach.space/walkway.git
+	branch = master
 [submodule "water_life"]
 	path = water_life
 	url = https://github.com/berengma/water_life
+	branch = master
 [submodule "we_undo"]
 	path = we_undo
 	url = https://github.com/HybridDog/we_undo
+	branch = master
 [submodule "wiki"]
 	path = wiki
 	url = https://github.com/minetest-mods/wiki
+	branch = master
 [submodule "windmill"]
 	path = windmill
 	url = https://github.com/Sokomine/windmill
+	branch = master
 [submodule "wine"]
 	path = wine
 	url = https://gitlab.com/Felfa/wine
+	branch = master
 [submodule "xban2"]
 	path = xban2
 	url = http://git.bananach.space/xban2.git
+	branch = master
 [submodule "xdecor"]
 	path = xdecor
 	url = https://github.com/minetest-mods/xdecor
+	branch = master
 [submodule "advtrains_platform"]
 	path = advtrains_platform
 	url = https://git.bananach.space/advtrains_platform.git
@@ -746,6 +810,7 @@
 [submodule "laptop_pc1"]
 	path = laptop_pc1
 	url = https://github.com/Gerold55/PCPack1
+	branch = master
 [submodule "scuba"]
 	path = scuba
 	url = https://github.com/jordan4ibanez/scuba
@@ -758,21 +823,27 @@
 [submodule "modcount"]
 	path = modcount
 	url = https://github.com/C-C-Minetest-Server/modcount
+	branch = main
 [submodule "digibanner"]
 	path = digibanner
 	url = https://github.com/C-C-Minetest-Server/digibanner.git
+	branch = main
 [submodule "digiline_nodes"]
 	path = digiline_nodes
 	url = https://github.com/C-C-Minetest-Server/digiline_nodes.git
+	branch = main
 [submodule "some_more_trains"]
 	path = some_more_trains
 	url = https://github.com/APercy/some_more_trains
+	branch = main
 [submodule "digicontrol"]
 	path = digicontrol
 	url = https://github.com/OgelGames/digicontrol
+	branch = master
 [submodule "Minetest-WorldEditAdditions"]
 	path = Minetest-WorldEditAdditions
 	url = https://github.com/sbrl/Minetest-WorldEditAdditions
+	branch = main
 [submodule "terraform"]
 	path = terraform
 	url = https://github.com/x2048/terraform
@@ -788,6 +859,7 @@
 [submodule "led_marquee"]
 	path = led_marquee
 	url = https://gitlab.com/VanessaE/led_marquee
+	branch = master
 [submodule "mesecons_x"]
 	path = mesecons_x
 	url = https://gitlab.com/deetmit/mesecons_x
@@ -800,6 +872,7 @@
 [submodule ".games/luckydude"]
 	path = .games/luckydude
 	url = https://gitlab.com/xenonca/luckydude/
+	branch = main
 [submodule "minetest_errata"]
 	path = minetest_errata
 	url = https://github.com/h-v-smacker/minetest_errata
@@ -810,6 +883,17 @@
 [submodule "username_policy"]
 	path = username_policy
 	url = https://github.com/C-C-Minetest-Server/username_policy
+	branch = main
 [submodule "szutilpack"]
 	path = szutilpack
 	url = https://gitlab.com/sztest/szutilpack
+[submodule "i3"]
+	path = i3
+	url = https://github.com/minetest-mods/i3
+	branch = master
+[submodule "illumination"]
+	url = https://github.com/mt-mods/illumination
+	branch = master
+[submodule "shell"]
+	path = shell
+	url = https://github.com/mt-mods/shell

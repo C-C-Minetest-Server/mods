@@ -1,5 +1,5 @@
-local formspec_version = 4
-local suggested_client_version = "5.4.1"
+local formspec_version = 5
+local suggested_client_version = "5.5.0"
 -- minetest.get_player_information(player_name).formspec_version
 minetest.register_on_joinplayer(function(OR, last_login)
 	if not OR:is_player() then return end
