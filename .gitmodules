@@ -897,3 +897,6 @@
 [submodule "shell"]
 	path = shell
 	url = https://github.com/mt-mods/shell
+[submodule "airutils"]
+	path = airutils
+	url = https://github.com/APercy/airutils
