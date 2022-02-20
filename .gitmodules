@@ -900,3 +900,6 @@
 [submodule "airutils"]
 	path = airutils
 	url = https://github.com/APercy/airutils
+[submodule "supercub"]
+	path = supercub
+	url = https://github.com/APercy/supercub
