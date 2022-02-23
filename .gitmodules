@@ -903,3 +903,12 @@
 [submodule "supercub"]
 	path = supercub
 	url = https://github.com/APercy/supercub
+[submodule "dataminer"]
+	path = dataminer
+	url = https://bitbucket.org/sorcerykid/dataminer
+[submodule "polygraph"]
+	path = polygraph
+	url = https://bitbucket.org/sorcerykid/polygraph
+[submodule "formspecs"]
+	path = formspecs
+	url = https://bitbucket.org/sorcerykid/formspecs
