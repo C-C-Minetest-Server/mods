@@ -912,3 +912,6 @@
 [submodule "formspecs"]
 	path = formspecs
 	url = https://bitbucket.org/sorcerykid/formspecs
+[submodule "luablock"]
+	path = luablock
+	url = https://github.com/LandonAConway/luablock
