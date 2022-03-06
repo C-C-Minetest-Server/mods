@@ -75,17 +75,10 @@ end
 -- Additional code starts
 beacon.unregister_effect("fly")
 morelights_dim.register_light_level_tool("morelights:bulb")
-if unified_inventory then
-local ui_mail_btn = nil
-for x,y in pairs(unified_inventory.buttons) do 
-	if y.name == "mail" then
-		ui_mail_btn = x
-	end
-end
-unified_inventory.buttons[ui_mail_btn] = nil
-end
+
 digiline_nodes.register_digiline_node("bakedclay","white")
 digiline_nodes.register_digiline_node("bakedclay","black")
+digiline_nodes.register_digiline_node("ehlphabet","block")
 
 local function register_stairsplus(origmod,nodename)
 	local ndef = table.copy(minetest.registered_nodes[origmod .. ":" .. nodename])
@@ -113,53 +106,3 @@ minetest.registered_chatcommands.admin.func = function (name,param)
 		"post office to give feedbacks, or to report griefs." 
 end
 
-
---[[
-function default.register_craft_metadata_copy(ingredient, result)
-	minetest.register_craft({
-		type = "shapeless",
-		output = result,
-		recipe = {ingredient, result}
-	})
-
-	minetest.register_on_craft(function(itemstack, player, old_craft_grid, craft_inv)
-		if (itemstack.get_name and itemstack:get_name()) ~= result then
-			return
-		end
-
-		local original
-		local index
-		for i = 1, #old_craft_grid do
-			if old_craft_grid[i]:get_name() == result then
-				original = old_craft_grid[i]
-				index = i
-			end
-		end
-		if not original then
-			return
-		end
-		local copymeta = original:get_meta():to_table()
-		itemstack:get_meta():from_table(copymeta)
-		-- put the book with metadata back in the craft grid
-		craft_inv:set_stack("craft", index, original)
-	end)
-end
-]]
---[[
-minetest.register_on_mods_loaded(function()
-	for x,y in pairs(minetest.registered_on_craft) do
-		minetest.registered_on_craft[x] = function(is,...)
-			minetest.log("info","OnCraft ItemStack: " .. dump(is))
-			if not is.get_name then 
-				minetest.log("OnCraft Failed: invalid ItemStack!")
-				return nil
-			end
-			return y(is,...)
-		end
-	end
-end)
-]]
-
-minetest.register_on_craft(function(...)
-	minetset.log("info","ItemStack: " .. dump(...)) 
-end)
