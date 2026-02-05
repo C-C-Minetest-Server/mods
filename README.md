@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> This collection of mod is only used on the old C&amp;C City Server. It is **NOT** used on the latest servers, including 1F616EMO Survival Servers. This repository is archived as the City Server is not longer up and running.
+
 # C&amp;C Servers Mod Collection
 This repo is the collection of C&amp;C Servers Mods. ***NOT ALL OF THEM ARE USED IN C&amp;C SERVERS!***
 
